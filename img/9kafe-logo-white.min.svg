@@ -1,0 +1,6 @@
+<svg viewBox="0 0 16 16" xml:space="preserve">
+  <g>
+    <path vector-effect="non-scaling-stroke" d="M3.71 1a2.5 2.5 0 0 0-2.302 1.523 2 2 0 1 1-.198 3.914V12.5a2.5 2.5 0 0 0 2.5 2.5h9a2.5 2.5 0 0 0 2.5-2.5v-9a2.5 2.5 0 0 0-2.5-2.5h-9Zm1.5 5.5a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5Zm.5 2.5h3a.5.5 0 0 1 0 1h-3a.5.5 0 0 1 0-1Z" fill="#fff"/>
+    <path vector-effect="non-scaling-stroke" d="M1.71 3.5a1 1 0 1 0 0 2 1 1 0 0 0 0-2Z" fill="#fff"/>
+  </g>
+</svg>
