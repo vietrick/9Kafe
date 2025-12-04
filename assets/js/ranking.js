@@ -7,8 +7,6 @@ document.addEventListener("DOMContentLoaded", function () {
         s = n.querySelectorAll(".init-plugin-suite-view-count-ranking-content"),
         a = {};
     var rank = 0;
-    console.log("DEBUG count i", n);
-    console.log("Element data-number:", parseInt(n.dataset.number));
 
     function r(n) {
         rank++;
