@@ -391,7 +391,7 @@ h3 {
 /* End: Layout styles */
 
 /*
-* Header styles
+* Header styles, Fixed color in Post Type
 */
 #masthead svg {
     color: #212529;
@@ -916,7 +916,7 @@ a.download {
 *******************************************/
 
 /*
-* Home Search 
+* Home Search, Fixed color
 */
 .page-head-main {
     text-align: center;
