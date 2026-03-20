@@ -2353,6 +2353,44 @@ section>h2 {
     transform: rotate(180deg);
 }
 
+.comment-respond #commentform textarea.form-control {
+    height: calc(4.5em + 0.75rem + 2px);
+}
+
+.comment-respond form#commentform {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.form-row {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+#commentform p.form-submit {
+    display: none;
+}
+
+#commentform button {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.5rem 1.5rem;
+    border-radius: 1.5rem;
+    background-color: var(--color-main);
+    color: #fff;
+    font-weight: 600;
+    font-size: 13px;
+    border: none;
+    cursor: pointer;
+
+}
+
 /* End: Comment*/
 
 .blog-row {
